@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arpit Pandey</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently learning [python](https://github.com/Arpit000009/Python)
+- 🔭 I’m currently learning [java](https://github.com/Arpit000009/jonas-Java)
 
 - 🔭 I’m currently working on [nodejs](https://github.com/Arpit000009/Sherlock_NODE)
 
