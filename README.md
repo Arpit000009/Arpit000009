@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arpit Pandey</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently learning [java](https://github.com/Arpit000009/jonas-Java)
+- 🔭 I’m currently learning [java(struts,spring,springboot)]
 
-- 🔭 I’m currently working on [nodejs](https://github.com/Arpit000009/Sherlock_NODE)
+- 🔭 I’m currently working on [java full stack]
 
 - 🌱 I have learned the **MERN STACK** (MongoDB, Express.js, React.js, Node.js) and built several full-stack projects using it. 
 
